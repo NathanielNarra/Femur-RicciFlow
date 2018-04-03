@@ -4,9 +4,12 @@
 
 ## Overview
 
-This a repository for the MATLAB code developed for Ricci-flow based conformal paramterisation of the human proximal femur surface meshes for shape matching purposes. The procedure (illustrated [here](https://github.com/NathanielNarra/Femur-RicciFlow/blob/master/docs/Illustrated_procedural_flow.pdf)) is tuned specifically for this anatomy. It can be extended to other anatomical surfaces, however the current MATLAB script is only applicable to genus 0 surfaces. The scripts have been developed for the work presented in the manuscript (under revision): 
+This a repository for the MATLAB code developed for Ricci-flow based conformal paramterisation of the human proximal femur surface meshes for shape matching purposes. The procedure (illustrated [here](https://github.com/NathanielNarra/Femur-RicciFlow/blob/master/docs/Illustrated_procedural_flow.pdf)) is tuned specifically for this anatomy. It can be extended to other anatomical surfaces, however the current MATLAB script is only applicable to genus 0 surfaces. If you find the scripts useful kindly cite the manuscript mentioned below: 
 
-`Narra N, Abe S, Dimitrov V, Nikander R, Kouhia R, Sievänen H, Hyttinen J. “Ricci-flow based conformal mapping of the proximal femur to identify exercise loading effects”. (Under review)`
+`Narra, N., Abe, S., Dimitrov, V., Nikander, R., Kouhia, R., Sievänen, H., Hyttinen, J.
+Ricci-flow based conformal mapping of the proximal femur to identify exercise loading effects (2018) Scientific Reports, 8 (1), art. no. 4823. 
+DOI: 10.1038/s41598-018-23248-y
+URL: https://www.nature.com/articles/s41598-018-23248-y`
 
 
 ## Contents
